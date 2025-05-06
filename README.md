@@ -1,2 +1,2 @@
 # Trees-and-Random-Forests
-Trees and Random Forests
+The decision tree classifier method of Scikit learn was used to train the dataset. The plot tree method was used to visualise the tree. Analysis was performed to identify whether the tree was overfitting or not. Classification report was also printed for the tree. Grid Search CV was used to identify the best parameters for the classification problem and the tree was visualised again. A random forest was trained on the same dataset and the accuracy scores were printed. Since the dataset was comparatively simple, the model's performance was good. Feature importances were printed. A cross validated score of 0.9829 was obtained.
